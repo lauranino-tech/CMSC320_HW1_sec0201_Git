@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is useful because it allows multiple people to work on the same code and it allows for careful saving of our work. For example if something breaks we can go to an earlier version of the project which is saved through git. Also, if someone needs to work on just one feature of the project they can create a branch without necessarily affecting the work of other people.
+
