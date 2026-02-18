@@ -1,10 +1,14 @@
 
-<<<<<<< HEAD
 Q1: Why might we consider using git?
 
 Answer: We want to use git because it allows us to be able to save the versions of our projects as we work on them. This is a useful feature to have especially when working in groups where many people edit the same thing and backtracking might be necessary.
-=======
+
 Q2: What field could data science be applied to? Give an example.
 
 Answer: Data science can be applied to the medical field to analyze large data sets of patient information, genomic information, and medical imaging data.
->>>>>>> q2
+
+Q3: What is the difference between merging and rehashing?
+
+Answer: Merging saves all the branching information whereas rehashing attempts to create a single timeline of edits meaning you have to resolve conflicts between separate branches.
+
+
