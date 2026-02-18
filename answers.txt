@@ -1,3 +1,10 @@
-Q4: What are you looking forward to this semester?
 
-Answer: I'm looking forward to making projects in cmsc320 that I can put in my portfolio.
+<<<<<<< HEAD
+Q1: Why might we consider using git?
+
+Answer: We want to use git because it allows us to be able to save the versions of our projects as we work on them. This is a useful feature to have especially when working in groups where many people edit the same thing and backtracking might be necessary.
+=======
+Q2: What field could data science be applied to? Give an example.
+
+Answer: Data science can be applied to the medical field to analyze large data sets of patient information, genomic information, and medical imaging data.
+>>>>>>> q2
