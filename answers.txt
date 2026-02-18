@@ -5,3 +5,9 @@ Answer: Git is useful because it allows multiple people to work on the same code
 Q2: What field could data science be applied to? Give an example.
 
 Answer: Data science can be applied to the medical field to analyze large data sets of patient information, genomic information, and medical imaging data.
+
+Q3: What is the difference between merging and rehashing?
+
+Answer: Merging saves all the branching information whereas rehashing attempts to create a single timeline of edits meaning you have to resolve conflicts between separate branches.
+
+
