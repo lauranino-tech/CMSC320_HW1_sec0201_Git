@@ -11,4 +11,7 @@ Q3: What is the difference between merging and rehashing?
 
 Answer: Merging saves all the branching information whereas rehashing attempts to create a single timeline of edits meaning you have to resolve conflicts between separate branches.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about data science and having stuff to put in my portfolio. 
 
